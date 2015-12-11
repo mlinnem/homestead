@@ -1,6 +1,10 @@
-# node-js-sample
+# HOMESTEAD
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+This is the homestead app. Yay!
+
+...
+
+Based on a barebones Node.js app using [Express 4](http://expressjs.com/).
 
 ## Running Locally
 
